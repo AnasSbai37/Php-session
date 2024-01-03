@@ -1,0 +1,16 @@
+.welcome{
+  font-size: 21pt;
+  margin-left: 600px;
+}
+.lien{
+  color:white;
+  margin-left: 1280px;
+}
+.lien:hover{
+  color:grey;
+  text-decoration: none;
+}
+.lien:visited{
+  color: #EEE8AA;
+  text-decoration: none;
+}
